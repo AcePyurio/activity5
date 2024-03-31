@@ -1,4 +1,4 @@
-### Concurrent Echo Server with Python
+### Activity 5
 The main goal of this project is to demonstrate the concept of concurrency through socket programming. This is demonstrated in the server by handling multiple connections simultaneously.
 
 ### Server.py
